@@ -1,0 +1,13 @@
+{
+   "name": "Dmitry",
+   "surname": "Shvydenko",
+    "status": "active",
+    "type": "donut",
+    "currency": "dollar",
+    "commodity": "Cake",
+    "toppings": [
+        { "id": "5002", "type": "Glazed" },
+        { "id": "5006", "type": "Chocolate with Sprinkles" },
+        { "id": "5004", "type": "Maple" }
+    ]
+}
